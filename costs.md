@@ -5,7 +5,7 @@ title: Costs
 
 ## Plinth
 
-Thing | Cost
+Thing  |  Cost
 -------|------
 Raspberry Pi  |  $35.00
 Power Adapter  |  $3.00
