@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: 0. Home
 ---
 
 ![](public/monument.jpg)
