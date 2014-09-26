@@ -6,7 +6,7 @@ title: Costs
 ## Plinth
 
 Thing  |  Cost
--------|------
+-------|------:
 Raspberry Pi  |  $35.00
 Power Adapter  |  $3.00
 SD Card  |  $3.00
