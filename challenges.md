@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Challenges
+title: 4. Challenges
 ---
 
 ## Retail

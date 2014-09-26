@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Costs
+title: 3. Costs
 ---
 
 ## Plinth

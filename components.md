@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Components
+title: 1. Components
 ---
 
 Monument combines three discrete components. Any of them could be implemented separately, but together they make up a *Monument*.

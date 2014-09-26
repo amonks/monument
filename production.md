@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Production
+title: 2. Production
 ---
 
 A number of plinths are produced ahead-of-time and brought to Milan.
