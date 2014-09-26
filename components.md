@@ -3,7 +3,7 @@ layout: page
 title: Components
 ---
 
-Monument combines three discrete components. Any of them could be implemented separately, but they all make up the Monument package.
+Monument combines three discrete components. Any of them could be implemented separately, but together they make up a *Monument*.
 
 * Statue
 
@@ -19,7 +19,7 @@ At the bottom of the statue is a plaque inscribed with the name of the subject, 
 
 The very bottom surface of the statue will have a notch to secure it into the plinth.
 
-Because it's produced to order, customers can choos their own material for the statue, based on budget or preference.
+Because it's produced to order, customers can choose their own material for the statue, based on budget or preference.
 
 ## Plinth
 

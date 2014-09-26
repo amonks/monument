@@ -15,7 +15,7 @@ Case  |  ???
 
 ## Statue
 
-By componentizing the statue separately from the plinth, we're able to remove it from the production budget. Customers order the custom statue online. Because it's made-to-order, the price is determined by the 3d printing material. By allowing customers to choose their own material, we can create a range of pricing options suited to any customer's budget.
+By modularizing the statue separately from the plinth, we're able to remove it from the production budget. Customers order the custom statue online. Because it's made-to-order, the price is determined by the 3d printing material. By allowing customers to choose their own material, we can create a range of pricing options suited to any customer's budget.
 
 ### Statue Generator
 
