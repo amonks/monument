@@ -3,8 +3,6 @@ layout: page
 title: Challenges
 ---
 
-# Challenges
-
 ## Retail
 
 Asking people to custom order something in a retail context isn't unheard of, but it's definitely a barrier to purchase.
