@@ -17,11 +17,17 @@ The statue is a 3d-printed bust of the subject. It sits on the plinth.
 
 At the bottom of the statue is a plaque inscribed with the name of the subject, the URL of the monument, and date of birth of the subject.
 
+The very bottom surface of the statue will have a notch to secure it into the plinth.
+
+Because it's produced to order, customers can choos their own material for the statue, based on budget or preference.
+
 ## Plinth
 
 The plinth is the thing you walk away from the fair with.
 
 It's produced ahead of time. It contains a small webserver with a WiFi antenna.
+
+The top of the plinth will have a peg to fit the notch in the bottom of the statue.
 
 If you're visiting the monument, point your web browser to its URL and you'll find a website about its subject.
 
