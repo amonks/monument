@@ -5,25 +5,23 @@ title: Components
 
 Monument combines three discrete components. Any of them could be implemented separately, but together they make up a *Monument*.
 
-* Statue
+* Statue (object)
 
-* Plinth
+* Plinth (server)
 
-* Web Service
+* Web Service (cloud)
 
 ## Statue
 
-The statue is a 3d-printed bust of the subject. It sits on the plinth.
+The statue is a 3d-printed bust of the subject. It sits on the plinth. The very bottom surface of the statue will have a notch to secure it into the plinth.
 
 At the bottom of the statue is a plaque inscribed with the name of the subject, the URL of the monument, and date of birth of the subject.
-
-The very bottom surface of the statue will have a notch to secure it into the plinth.
 
 Because it's produced to order, customers can choose their own material for the statue, based on budget or preference.
 
 ## Plinth
 
-The plinth is the thing you walk away from the fair with.
+The plinth is the thing you can walk away from the fair with.
 
 It's produced ahead of time. It contains a small webserver with a WiFi antenna.
 

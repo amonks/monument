@@ -7,11 +7,11 @@ title: Costs
 
 Thing  |  Cost
 -------|------:
-Raspberry Pi  |  $35.00
-Power Adapter  |  $3.00
-SD Card  |  $3.00
+Raspberry Pi  |  ~$35.00
+Power Adapter  |  ~$3.00
+SD Card  |  ~$3.00
 WiFi Antenna  |  ~$10.00
-Case  |  ???
+Housing  |  ???
 
 ## Statue
 
