@@ -16,5 +16,3 @@ baseurl:          /
 author:
   name:           'Andrew Monks'
   url:            https://monks.co
-
-paginate:         5
