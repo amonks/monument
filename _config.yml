@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Monument
 tagline:          'for the digital age'
-description:      "A monument is a celebration of someone's impact on the world, and of the empty void they leave behind them."
+description:      "A monument is a celebration of someone's impact on the world, and an acknowledgement of the empty void they leave behind them."
 url:              http://monument.monks.co
 baseurl:          /
 
