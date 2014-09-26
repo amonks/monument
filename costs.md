@@ -6,12 +6,12 @@ title: Costs
 ## Plinth
 
 Thing | Cost
-:------|-----:
-Raspberry Pi | $35.00
-Power Adapter | $3.00
-SD Card | $3.00
-WiFi Antenna | $11.99
-Case | ???
+-------|------
+Raspberry Pi  |  $35.00
+Power Adapter  |  $3.00
+SD Card  |  $3.00
+WiFi Antenna  |  ~$10.00
+Case  |  ???
 
 ## Statue
 
